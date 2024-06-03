@@ -9,7 +9,7 @@
 
  第五週將利用與ChatGpt的對話, 整理與精密機械有關的問題詢答紀錄。
 
- <!-- PELICAN_END_SUMMARY -->
+
 # 第一週課程內容
 請學員申請 Github 帳號
 
